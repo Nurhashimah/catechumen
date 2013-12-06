@@ -4,3 +4,4 @@ tmp/**/*
 .backup
 db/migrate/bin/*
 config/database.yml
+public/assets/*
